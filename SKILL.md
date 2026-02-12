@@ -1,11 +1,9 @@
 ---
 name: royal-speechcraft
-description: Craft speeches for high-stakes moments that combine authority with vulnerability.
-  Create memorable communication that transforms fear into resolve, acknowledges danger
-  while inspiring collective ac...
+description: Craft speeches for high-stakes moments that combine authority with vulnerability. Create memorable communication that transforms fear into resolve, acknowledges danger while inspiring collective ac...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - royal-speechcraft-(crisis-rhetoric)
